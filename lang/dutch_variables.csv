@@ -1,0 +1,270 @@
+DT4H-CV1,hartkramp
+DT4H-CV1,pijn op de borst
+DT4H-CV1,angina pectoris
+DT4H-CV10,transient ischemic attack
+DT4H-CV10,TIA
+DT4H-CV10,transiënte ischemische aanval
+DT4H-CV11,hartklepaandoening
+DT4H-CV11,aandoening van hartklep
+DT4H-CV12,bypassoperatie
+DT4H-CV12,CABG
+DT4H-CV12,coronairebypassoperatie
+DT4H-CV12,graften van coronaire bypass
+DT4H-CV12,coronary artery bypass grafting
+DT4H-CV12,coronaire arteriële bypass grafting
+DT4H-CV2,boezemfibrilleren
+DT4H-CV2,atriumfibrilleren
+DT4H-CV2,atriumfibrillatie
+DT4H-CV3,cardiomyopathie
+DT4H-CV4,hartfalen
+DT4H-CV4,hartinsufficiëntie
+DT4H-CV4,pompfalen
+DT4H-CV4,hartspierzwakte
+DT4H-CV4,HF
+DT4H-CV4,decompensatio cordis
+DT4H-CV4,cardiale insufficiëntie
+DT4H-CV4,myocardinsufficiëntie
+DT4H-CV5,hypertensieve aandoening
+DT4H-CV5,hoge bloeddruk
+DT4H-CV5,hypertensie
+DT4H-CV6,ischemische hartziekte
+DT4H-CV7,hartaanval
+DT4H-CV7,MI
+DT4H-CV7,myocardinfarct
+DT4H-CV7,hartinfarct
+DT4H-CV8,perifeer arterieel vaatlijden
+DT4H-CV8,aandoening van perifere slagader
+DT4H-CV8,"PAV, verschijnsel van atherosclerose (slagaderverkalking), veelal in de slagaders van het been."
+DT4H-CV9,cerebrovasculair accident
+DT4H-CV9,CVA
+DT4H-CV9,beroerte
+DT4HDem-11,plaats van herkomst
+DT4HDem-14,datum van opname
+DT4HDem-14,opnamedatum
+DT4HDem-3,vrouwelijk
+DT4HDem-4,mannelijk
+DT4HDem-4,man
+DT4HDem-6,geboortedatum
+DT4HDem-7,Lichaamslengte
+DT4HDem-8,lichaamsgewicht
+DT4HDem-9,BMI
+DT4HDem-9,QI
+DT4HDem-9,body mass index
+DT4HDem-9,queteletindex
+DT4HDem-9,lichaamsmassa-index
+DT4H-Dis1,verworven immunodeficiëntiesyndroom
+DT4H-Dis1,aids
+DT4H-Dis1,'acquired immunodeficiency'-syndroom
+DT4H-Dis10,kanker
+DT4H-Dis10,maligne neoplasma
+DT4H-Dis10,maligne neoplastische aandoening
+DT4H-Dis10,maligne tumor
+DT4H-Dis11,obstructieveslaapapneusyndroom
+DT4H-Dis11,OSA
+DT4H-Dis11,OSAS
+DT4H-Dis12,reuma
+DT4H-Dis13,chronische nierinsufficiëntie
+DT4H-Dis13,chronische nierschade
+DT4H-Dis2,infectie door humaan immunodeficiëntievirus
+DT4H-Dis2,hiv-infectie
+DT4H-Dis2,infectie met humaan immunodeficiëntievirus
+DT4H-Dis3,COPD
+DT4H-Dis3,chronische obstructieve longaandoening
+DT4H-Dis3,chronische obstructieve longaandoening [COPD]
+DT4H-Dis4,diabetes mellitus
+DT4H-Dis4,diabetes
+DT4H-Dis4,suikerziekte
+DT4H-Dis5,dementie
+DT4H-Dis6,depressie
+DT4H-Dis6,depressieve aandoening
+DT4H-Dis6,depressieve-stemmingsstoornis
+DT4H-Dis7,nierdialyse
+DT4H-Dis7,dialyse
+DT4H-Dis8,hyperthyreoïdie
+DT4H-Dis8,hyperthyroïdie
+DT4H-Dis9,leveraandoening
+DT4H-Dis9,aandoening van lever
+DT4HEKG-1,Type hartritme
+DT4HEKG-2,acuut myocardinfarct met elevatie van ST-segment
+DT4HEKG-2,acuut myocardinfarct met ST-elevatie
+DT4HEKG-2,STEMI
+DT4HEKG-3,acuut myocardinfarct zonder elevatie van ST-segment
+DT4HEKG-3,NSTEMI
+DT4HEKG-3,acuut myocardinfarct zonder ST-elevatie
+DT4HEKG-3,non-STEMI
+DT4HEKG-4,duur van QRS-complex
+DT4HEKG-5,QRS-as op ECG
+DT4HEKG-5,QRS-as op elektrocardiogram
+DT4HEKG-7,hartslagfrequentie
+DT4H-Lab1,hemoglobine
+DT4H-Lab1,Hb
+DT4H-Lab10,Troponine T
+DT4H-Lab12,triacylglycerol
+DT4H-Lab12,TAG
+DT4H-Lab13,cholesterol
+DT4H-Lab14,high-density lipoprotein
+DT4H-Lab14,'high-density'-lipoproteïne
+DT4H-Lab14,HDL
+DT4H-Lab15,Lage dichtheid lipoproteïne
+DT4H-Lab16,kalium
+DT4H-Lab16,K
+DT4H-Lab17,natrium
+DT4H-Lab17,Na
+DT4H-Lab18,Gamma-glutamyltransferase
+DT4H-Lab19,bepalen van creatine in urine
+DT4H-Lab2,Ferritine
+DT4H-Lab20,bepaling van albumine
+DT4H-Lab21,bepalen van albumine in urine
+DT4H-Lab22,glomerulaire filtratiesnelheid
+DT4H-Lab22,GFR
+DT4H-Lab23,bepalen van bloed-ureum-stikstof
+DT4H-Lab23,bepalen van BUN
+DT4H-Lab24,bepalen van albumine-creatinine-ratio in urine
+DT4H-Lab24,bepalen van albumine-kreatinineratio in urine
+DT4H-Lab24,bepalen van albumine/creatinine-verhouding in urine
+DT4H-Lab24,bepalen van verhouding tussen albumine en creatinine in urine
+DT4H-Lab24,bepalen van albumine-creatinineratio in urine
+DT4H-Lab25,Geglyceerd hemoglobine-A1c
+DT4H-Lab3,bepalen van transferrinesaturatie
+DT4H-Lab3,bepalen van ijzerverzadiging
+DT4H-Lab3,bepalen van saturatie van transferrine
+DT4H-Lab4,N-terminaal pro-B-type natriuretisch peptide
+DT4H-Lab5,B-type natriuretische peptide
+DT4H-Lab6,bepalen van hs-CRP
+DT4H-Lab6,bepalen van CRP met hooggevoelige techniek
+DT4H-Lab6,bepalen van hoogsensitieve CRP
+DT4H-Lab6,bepalen van C-reactieve proteïne met hooggevoelige techniek
+DT4H-Lab7,C reactief eiwit
+DT4H-Lab8,Troponine I
+DT4HMeas-1,Systolische bloeddruk bij opname
+DT4HMeas-2,Diastolische bloeddruk bij opname
+DT4HMeas-3,gemiddelde bloeddruk
+DT4HMeas-4,veneuze zuurstofsaturatie
+DT4HMeas-5,arteriële zuurstofsaturatie
+DT4H-Med2,product dat enkel sacubitril en valsartan bevat
+DT4H-MedA1,ACE-remmer
+DT4H-MedA1,stof met remmende werking op angiotensine-converterend enzym
+DT4H-MedA1,‘angiotensin converting enzyme’-remmer
+DT4H-MedA1,'angiotensin converting enzyme'-remmer
+DT4H-MedAR1,angiotensine II-receptorantagonist
+DT4H-MedAR1,angiotensinereceptorblokker
+DT4H-MedAR1,stof met angiotensine II-receptorantagonistische werking
+DT4H-MedAR1,RAAS-remmer
+DT4H-MedBB1,bètablokker
+DT4H-MedBB1,bèta-adrenerge receptorantagonist
+DT4H-MedC1,calciumantagonist
+DT4H-MedC1,calciumblokker
+DT4H-MedC1,calciumkanaalblokker
+DT4H-MedCO1,antistollingsmiddel
+DT4H-MedCO1,anticoagulans
+DT4H-MedCO1,bloedverdunner
+DT4H-MedD1,diureticum
+DT4H-MedD1,urineafdrijvend middel
+DT4H-MedD1,plasmiddel
+DT4H-MedDG1,digitalisglycoside
+DT4H-MedDG1,hartglycoside
+DT4H-MedIV1,ivabradine
+DT4H-MedL1,lisdiureticum
+DT4H-MedM1,aldosteronreceptorantagonist
+DT4H-MedM1,aldosteronantagonist
+DT4H-MedM1,aldosteronreceptorblokker
+DT4H-MedP1,bloedplaatjesremmer
+DT4H-MedP1,plaatjesremmer
+DT4H-MedP1,trombocytenaggregatieremmer
+DT4H-MedP1,stof met remmende werking op plaatjesaggregatie
+DT4H-MedR1,renine-angiotensinesysteemremmer
+DT4H-MedR1,RAS-remmer
+DT4H-MedRHY1,Natriumkanaalblokker
+DT4H-MedS1,statine
+DT4H-MedS1,HMG-CoA-reductaseremmer
+DT4H-MedS1,3-hydroxy-3-methylglutaryl-co-enzym-A-reductaseremmer
+DT4H-MedS1,hydroxymethylglutarylco-enzym-A-reductaseremmer
+DT4H-MedS1,cholesterolverlager
+DT4H-MedSG1,Remmer van natrium glucose cotransporter subtype 2
+DT4H-MedV1,vasodilatator
+DT4H-MedV1,vasodilatans
+DT4H-MedV1,vaatverwijder
+DT4H-MedV1,vaatverwijdende medicijnen
+DT4H-Out8,opname in ziekenhuis
+DT4H-Out8,ziekenhuisopname
+DT4H-Out9,sterfte
+DT4H-Out9,dood
+DT4H-Out9,overlijden
+DT4H-Proc1,percutane coronaire interventie
+DT4H-Proc1,PCI
+DT4H-Proc2,cardiovasculair implantaat
+DT4H-Proc3,vasculair implantaat
+DT4H-Proc4,materiaal voor harttransplantaat
+DT4HSign-1,New York Heart Association-classificatie
+DT4HSign-10,anorexie
+DT4HSign-10,verminderde eetlust
+DT4HSign-11,sombere stemming
+DT4HSign-11,depressieve stemming
+DT4HSign-11,somberheid
+DT4HSign-12,hartkloppingen
+DT4HSign-12,palpitaties
+DT4HSign-13,duizeligheid
+DT4HSign-14,syncope
+DT4HSign-14,flauwvallen
+DT4HSign-15,verhoogde jugulair veneuze druk
+DT4HSign-15,verhoogde druk in halsvene
+DT4HSign-15,verhoogde JVP
+DT4HSign-16,hepatojugulaire reflux
+DT4HSign-17,derde harttoon
+DT4HSign-17,S3
+DT4HSign-18,gewicht toegenomen
+DT4HSign-19,gewichtsverlies
+DT4HSign-19,afvallen
+DT4HSign-2,pijn op borst
+DT4HSign-20,hartruis
+DT4HSign-20,souffle van hart
+DT4HSign-20,hartgeruis
+DT4HSign-21,perifeer oedeem
+DT4HSign-22,respiratoire crepitaties
+DT4HSign-23,pleura-effusie
+DT4HSign-23,vocht achter longen
+DT4HSign-24,tachycardie
+DT4HSign-25,onregelmatige pulsaties
+DT4HSign-25,onregelmatige polsslag
+DT4HSign-26,tachypneu
+DT4HSign-26,versnelde ademhaling
+DT4HSign-27,Cheyne-Stokes-ademhaling
+DT4HSign-27,cheyne-stokesademhaling
+DT4HSign-28,hepatomegalie
+DT4HSign-28,vergrote lever
+DT4HSign-29,ascites
+DT4HSign-29,vocht in buikholte
+DT4HSign-3,dyspneu
+DT4HSign-3,dyspnoe
+DT4HSign-3,kortademigheid
+DT4HSign-3,benauwdheid
+DT4HSign-30,oligurie
+DT4HSign-30,verminderde urineproductie
+DT4HSign-4,orthopneu
+DT4HSign-4,orthopnoe
+DT4HSign-5,paroxismale nachtelijke dyspneu
+DT4HSign-5,paroxismale nachtelijke dyspnoe
+DT4HSign-5,paroxismale nachtelijke kortademigheid
+DT4HSign-6,verminderde inspanningstolerantie
+DT4HSign-7,vermoeidheid
+DT4HSign-8,gezwollen enkelregio
+DT4HSign-8,gezwollen enkel
+DT4HSign-9,nachtelijke hoest
+DT4H-SM1,roker
+DT4H-SM1,rookt
+DT4H-SM2,rookte vroeger
+DT4H-SM2,ex-roker
+DT4H-SM3,rookt dagelijks tabak
+DT4H-SM4,rookt soms tabak
+DT4H-SM4,rookt soms
+DT4H-SM6,heeft nooit gerookt
+DT4H-SM8,gebruik van rooktabak onbekend
+DT4H-SM8,roken van tabak onbekend
+DT4H-US1,linkerventrikelejectiefractie
+DT4H-US1,LVEF
+DT4H-US13,Rechter ventrikel ejectiefractie
+DT4H-US2,Lichaamsoppervlak
+DT4H-US32,bevinding betreffende hartritme
+DT4H-US33,A-golf
+DT4H-US41,Verandering in de oppervlakte van het linkerventrikel
+DT4H-US7,Eind-systolische holtegrootte linker ventrikel

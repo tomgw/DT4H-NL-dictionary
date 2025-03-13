@@ -4,8 +4,8 @@ services:
     build: .
     user: root
     environment:
-      DICTIONARY_FILE:
-      LANGUAGE: en
+      DICTIONARY_FILE: dutch_entities.csv
+      LANGUAGE: nl
     ports:
       - 8000:8000
     volumes:

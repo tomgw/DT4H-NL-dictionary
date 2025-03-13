@@ -36,7 +36,7 @@ class ModelAnnotation(ABC):
             },
             "nlp_service_info": {
                 "service_app_name": "DT4H NLP Processor",
-                "service_language": "en",
+                "service_language": "nl",
                 "service_version": "1.0",
                 "service_model": self.__class__.__name__
             }
